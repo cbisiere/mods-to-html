@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd http://www.w3.org/1999/xlink http://www.loc.gov/standards/xlink/xlink.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Imperfect Competition in Financial Markets</mods:title>
+    <mods:subTitle>An Empirical Study of Island and Nasdaq</mods:subTitle>
+  </mods:titleInfo>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="info:eu-repo">info:eu-repo/semantics/article</mods:genre>
+  <mods:genre authority="local">refereedJournalArticle</mods:genre>
+  <mods:name type="personal" authority="local" authorityURI="http://tse-fr.eu/aut/" valueURI="http://tse-fr.eu/aut/27">
+    <mods:namePart type="family">Biais</mods:namePart>
+    <mods:namePart type="given">Bruno</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+      <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+      <mods:roleTerm type="text" authority="marcrelator" lang="fre">Auteur</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal" authority="local" authorityURI="http://tse-fr.eu/aut/" valueURI="http://tse-fr.eu/aut/28">
+    <mods:namePart type="family">Bisière</mods:namePart>
+    <mods:namePart type="given">Christophe</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+      <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+      <mods:roleTerm type="text" authority="marcrelator" lang="fre">Auteur</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal" authority="local" authorityURI="http://tse-fr.eu/aut/" valueURI="http://tse-fr.eu/aut/130">
+    <mods:namePart type="family">Spatt</mods:namePart>
+    <mods:namePart type="given">Chester</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+      <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+      <mods:roleTerm type="text" authority="marcrelator" lang="fre">Auteur</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateIssued encoding="w3cdtf" keyDate="yes">2010-12</mods:dateIssued>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+    <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+    <mods:languageTerm type="text" authority="iso639-2b" lang="fre">anglais</mods:languageTerm>
+  </mods:language>
+  <mods:physicalDescription>
+    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+  </mods:physicalDescription>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Management Science</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="local">refereedJournal</mods:genre>
+    <mods:identifier type="local">http://tse-fr.eu/pub/396</mods:identifier>
+    <mods:identifier type="issn">0025-1909</mods:identifier>
+    <mods:part>
+      <mods:detail type="volume">
+        <mods:number>56</mods:number>
+      </mods:detail>
+      <mods:detail type="issue">
+        <mods:number>12</mods:number>
+      </mods:detail>
+      <mods:extent unit="page">
+        <mods:start>2237</mods:start>
+        <mods:end>2250</mods:end>
+      </mods:extent>
+    </mods:part>
+  </mods:relatedItem>
+  <mods:relatedItem type="preceding" displayLabel="Preceding title" xlink:href="http://tse-fr.eu/pub/1569"/>
+  <mods:identifier type="local">http://tse-fr.eu/pub/22759</mods:identifier>
+  <mods:identifier type="doi">10.1287/mnsc.1100.1243</mods:identifier>
+  <mods:classification authority="jelc">G1</mods:classification>
+  <mods:classification authority="jelc">G14</mods:classification>
+  <mods:subject>
+    <mods:topic>competition in financial markets</mods:topic>
+    <mods:topic lang="fre">concurrence sur les marchés financiers</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>liquidity supply</mods:topic>
+    <mods:topic lang="fre">offre de liquidité</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>trading mechanisms</mods:topic>
+    <mods:topic lang="fre">mécanismes d'échanges</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>different tick sizes</mods:topic>
+    <mods:topic lang="fre">différents pas de cotation</mods:topic>
+  </mods:subject>
+  <mods:abstract>The competition between Island and Nasdaq at the beginning of the century offers a natural laboratory to study competition between and within trading platforms and its consequences for liquidity supply.  Our empirical strategy takes advantage of the difference between the pricing grids used on Island and Nasdaq, as well as of the decline in the Nasdaq tick. Using the finer grid prevailing on their market, Island limit order traders undercut Nasdaq quotes, much more than they undercut one another. The drop in the Nasdaq tick size triggered a drop in Island spreads, despite the Island tick already being very thin before Nasdaq decimalization. We also estimate a structural model of liquidity supply and find that Island limit order traders earned rents before Nasdaq decimalization. Our results suggest that perfect competition cannot be taken for granted, even on transparent open limit order books with a very thin pricing grid.</mods:abstract>
+  <mods:location>
+    <mods:url usage="primary display" access="object in context">http://tse-fr.eu/pub/22759</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource>Toulouse School of Economics</mods:recordContentSource>
+    <mods:recordOrigin>machine generated from our SQL database</mods:recordOrigin>
+    <mods:languageOfCataloging>
+      <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+      <mods:languageTerm type="text" authority="iso639-2b" lang="fre">anglais</mods:languageTerm>
+    </mods:languageOfCataloging>
+  </mods:recordInfo>
+</mods:mods>
